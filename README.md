@@ -1,2 +1,2 @@
-# Soda_machine
-Work on intermediate debugging
+# SodaMachineDebugging
+Python debugging project for students to learn how to debug an existing codebase.
